@@ -153,7 +153,7 @@ Evaluated once on the 624-image held-out test set using the best checkpoint.
 | Specificity (NORMAL recall) | 64.96% (152 / 234) |
 
 <p align="center">
-  <img src="./assets/Confution Matrix and ROC.png" width="90%" alt="Confusion matrix and ROC curve">
+  <img src="./assets/Confusion Matrix and ROC.png" width="90%" alt="Confusion matrix and ROC curve">
 </p>
 
 **Interpretation**
